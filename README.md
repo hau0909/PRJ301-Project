@@ -51,6 +51,32 @@
 
 ![cart-page](https://github.com/user-attachments/assets/b73a99ef-7267-4298-865b-2fdbda16f91b)
 
+**Manager Page:**
+
+![manager-page](https://github.com/user-attachments/assets/c767cc0b-7637-44a6-a181-bdcf035eb034)
+
+**Manager account Page:**
+
+![manager-account](https://github.com/user-attachments/assets/e1fd4f3b-8dac-4f2e-ac34-6593fbfeb720)
+
+**Change account status and add new account:**
+
+![change-account-status](https://github.com/user-attachments/assets/c0a5ce0e-85ee-4ed5-88f2-2a4c198b7487)
+![account-inactive](https://github.com/user-attachments/assets/3da0410a-abf0-4d5f-aeba-59fbfe7bdddb)
+![add-new-account](https://github.com/user-attachments/assets/a1708acc-d1fc-40e4-a98c-c984ccfc5640)
+
+**Manager product Page:**
+
+![maneger-product](https://github.com/user-attachments/assets/531655bd-1eaf-4d67-8338-ba866acf7615)
+![add-new-product](https://github.com/user-attachments/assets/86737336-d88d-486c-9ebc-39fc1aba21fe)
+
+**Manager order Page:**
+
+![manager-order](https://github.com/user-attachments/assets/3b4e954d-f53c-4ad1-9c63-503dddb5bcf6)
+
+**Revenue Page:**
+
+![revenue](https://github.com/user-attachments/assets/36eb4f1e-be96-4189-95a2-83448460ebe9)
 
 **Note:**  
 Due to some issues with missing files and code errors, the source code for this project is not complete. As a result, only the following functionalities are available:  
