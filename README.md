@@ -81,7 +81,7 @@
 **Note:**  
 Due to some issues with missing files and code errors, the source code for this project is not complete. As a result, only the following functionalities are available:  
 - Login  
-- Product display on the Home page, Product page, Category page, and Product details  
+- Product display on the Home page, Product page, Category page, Product details, and Manager Pages.  
 - Cart functionality  
 
 *I apologize for the inconvenience caused by this issue.*
